@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           UTC to local time converter
-// @namespace      https://github.com/aawc/UserScripts/chromium-utc-to-local-time.js
+// @namespace      https://github.com/aawc/UserScripts/raw/master/chromium-utc-to-local-time.js
 // @description    Make times on codereview.chromium.org local to make them easier to read.
 // @match          https://codereview.chromium.org/*
 // @version        0.1
